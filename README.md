@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy o Ivan</h1>
+<h1 align="center">Hola 👋, Soy Ivan</h1>
 <!--<h3 align="center">Oi, tem alguem aqui?</h3>
 -->
 
